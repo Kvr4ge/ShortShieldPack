@@ -1,7 +1,9 @@
 [English](https://github.com/Kvr4ge/ShortShieldPack/blob/main/README.md)/日本語
 
 # ShortShieldPack
-「盾が視界を塞ぐのかい？ならばこれを使うといい  」
+「盾が視界を塞ぐのかい？ならばこれを使うといい  」         
+
+[ShortShieldPackをダウンロード](https://github.com/Kvr4ge/ShortShieldPack/releases/download/ShortShieldPack%27s/ShortShieldPack.zip)
 
 ![sample](https://user-images.githubusercontent.com/124531500/216846879-65318f5e-9f97-4906-8347-83c10435ad74.png)
 
