@@ -23,4 +23,3 @@ English/[日本語](https://github.com/Kvr4ge/ShortShieldPack/blob/main/README-j
 # Other
 - Feel free to distribute secondarily.
 - No problem to distribute the file in a separate texture
-- 
