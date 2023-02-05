@@ -1,7 +1,9 @@
 English/[日本語](https://github.com/Kvr4ge/ShortShieldPack/blob/main/README-ja.md)
 
 # ShortShieldPack
-「Shield blocking your view? Then use this.」
+「Shield blocking your view? Then use this.」             
+
+[Download ShortShieldPack](https://github.com/Kvr4ge/ShortShieldPack/releases/download/ShortShieldPack%27s/ShortShieldPack.zip)
 
 ![sample](https://user-images.githubusercontent.com/124531500/216846879-65318f5e-9f97-4906-8347-83c10435ad74.png)
 
